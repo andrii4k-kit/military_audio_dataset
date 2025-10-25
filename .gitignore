@@ -1,0 +1,5 @@
+data/
+pre_trained_model/
+*.pth
+*.pt
+
