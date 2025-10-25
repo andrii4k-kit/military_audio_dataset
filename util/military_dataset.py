@@ -1,4 +1,4 @@
-from curses import meta
+#from curses import meta
 import os
 import pickle
 import random
